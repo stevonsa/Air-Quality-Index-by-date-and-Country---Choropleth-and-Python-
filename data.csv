@@ -1,0 +1,688 @@
+,date,code,country,aqi,status
+0,2016-06-27 10:00:00,OMN,Oman,-,unavailable
+1,2016-08-09 07:00:00,IRL,Ireland,-,unavailable
+2,2020-05-15 23:00:00,UKR,Ukraine,9,good
+3,2020-08-03 16:00:00,,Bolivia,-,unavailable
+4,2020-08-26 12:00:00,,Rusia,42,good
+5,2020-11-22 10:00:00,GBR,United Kingdom,25,good
+6,2021-08-15 18:00:00,AFG,Afghanistan,193,unhealty
+7,2022-05-01 16:00:00,CHN,China,37,good
+8,2022-07-11 18:00:00,SAU,Saudi Arabia,514,hazardous
+9,2022-10-24 10:00:00,HUN,Hungary,-,unavailable
+10,2022-12-05 09:00:00,PRI,Puerto Rico,-,unavailable
+11,2023-03-22 16:00:00,BEL,Belgium,24,good
+12,2023-04-13 17:00:00,GHA,Ghana,55,moderate
+13,2023-05-10 07:00:00,MNE,Montenegro,43,good
+14,2023-05-20 23:00:00,ITA,Italy,34,good
+15,2023-06-08 23:00:00,IRQ,Iraq,124,unhealty for sensitive groups
+16,2023-06-26 12:00:00,,Iran,94,moderate
+17,2023-06-27 07:00:00,ZAF,South Africa,165,unhealty
+18,2023-06-29 09:00:00,CHL,Chile,50,good
+19,2023-06-29 13:00:00,AZE,Azerbaijan,76,moderate
+20,2023-06-29 18:00:00,BHR,Bahrain,82,moderate
+21,2023-06-30 02:00:00,KGZ,Kyrgyzstan,57,moderate
+22,2023-06-30 16:00:00,AND,Andorra,25,good
+23,2023-07-01 09:00:00,,Brunei,10,good
+24,2023-07-01 22:00:00,,Macedonia,36,good
+25,2023-07-02 19:00:00,CRI,Costa Rica,5,good
+26,2023-07-02 19:00:00,CAN,Canada,14,good
+27,2023-07-02 20:00:00,ARG,Argentina,55,moderate
+28,2023-07-02 21:00:00,MEX,Mexico,102,unhealty for sensitive groups
+29,2023-07-02 21:00:00,ECU,Ecuador,75,moderate
+30,2023-07-02 21:00:00,GTM,Guatemala,22,good
+31,2023-07-02 21:00:00,PAN,Panama,56,moderate
+32,2023-07-02 22:00:00,USA,United States,29,good
+33,2023-07-02 22:00:00,LBN,Lebanon,33,good
+34,2023-07-02 22:00:00,SLV,El Salvador,158,unhealty
+35,2023-07-02 23:00:00,COL,Colombia,56,moderate
+36,2023-07-02 23:00:00,PER,Peru,7,good
+37,2023-07-02 23:00:00,ALB,Albania,24,good
+38,2023-07-03 01:00:00,BRA,Brazil,12,good
+39,2023-07-03 02:00:00,FRA,France,12,good
+40,2023-07-03 03:00:00,PRT,Portugal,24,good
+41,2023-07-03 04:00:00,ESP,Spain,20,good
+42,2023-07-03 04:00:00,DZA,Algeria,21,good
+43,2023-07-03 04:00:00,HRV,Croatia,32,good
+44,2023-07-03 04:00:00,LUX,Luxembourg,46,good
+45,2023-07-03 04:00:00,ISL,Iceland,6,good
+46,2023-07-03 04:00:00,DNK,Denmark,29,good
+47,2023-07-03 05:00:00,,Czech Republic,52,moderate
+48,2023-07-03 05:00:00,AUT,Austria,46,good
+49,2023-07-03 05:00:00,SRB,Serbia,57,moderate
+50,2023-07-03 05:00:00,CRI,Costa Rica,5,good
+51,2023-07-03 05:00:00,,Kosovo,26,good
+52,2023-07-03 05:00:00,SVK,Slovakia,13,good
+53,2023-07-03 05:00:00,NLD,Netherlands,44,good
+54,2023-07-03 05:00:00,SWE,Sweden,3,good
+55,2023-07-03 05:00:00,BGR,Bulgaria,22,good
+56,2023-07-03 05:00:00,KEN,Kenya,44,good
+57,2023-07-03 06:00:00,SVN,Slovenia,42,good
+58,2023-07-03 06:00:00,DEU,Germany,21,good
+59,2023-07-03 06:00:00,BIH,Bosnia and Herzegovina,16,good
+60,2023-07-03 06:00:00,LTU,Lithuania,28,good
+61,2023-07-03 06:00:00,NOR,Norway,4,good
+62,2023-07-03 06:00:00,GIB,Gibraltar,47,good
+63,2023-07-03 06:00:00,POL,Poland,50,good
+64,2023-07-03 06:00:00,MLT,Malta,61,moderate
+65,2023-07-03 06:00:00,ISR,Israel,64,moderate
+66,2023-07-03 07:00:00,TUR,Turkey,30,good
+67,2023-07-03 07:00:00,JOR,Jordan,20,good
+68,2023-07-03 07:00:00,CYP,Cyprus,63,moderate
+69,2023-07-03 07:00:00,FIN,Finland,27,good
+70,2023-07-03 07:00:00,EST,Estonia,30,good
+71,2023-07-03 07:00:00,GEO,Georgia,46,good
+72,2023-07-03 07:00:00,GRC,Greece,78,moderate
+73,2023-07-03 07:00:00,ROU,Romania,16,good
+74,2023-07-03 07:00:00,CHE,Switzerland,16,good
+75,2023-07-03 07:00:00,KWT,Kuwait,119,unhealty for sensitive groups
+76,2023-07-03 08:00:00,PAK,Pakistan,132,unhealty for sensitive groups
+77,2023-07-03 08:00:00,LKA,Sri Lanka,38,good
+78,2023-07-03 09:00:00,CAN,Canada,11,good
+79,2023-07-03 09:00:00,BGD,Bangladesh,112,unhealty for sensitive groups
+80,2023-07-03 09:00:00,IND,India,83,moderate
+81,2023-07-03 09:00:00,KAZ,Kazakhstan,30,good
+82,2023-07-03 10:00:00,GTM,Guatemala,25,good
+83,2023-07-03 10:00:00,LBN,Lebanon,30,good
+84,2023-07-03 10:00:00,,Laos,21,good
+85,2023-07-03 10:00:00,MMR,Myanmar,46,good
+86,2023-07-03 10:00:00,MEX,Mexico,78,moderate
+87,2023-07-03 11:00:00,LBN,Lebanon,30,good
+88,2023-07-03 11:00:00,THA,Thailand,34,good
+89,2023-07-03 11:00:00,ECU,Ecuador,88,moderate
+90,2023-07-03 11:00:00,SLV,El Salvador,122,unhealty for sensitive groups
+91,2023-07-03 11:00:00,IDN,Indonesia,152,unhealty
+92,2023-07-03 11:00:00,ARG,Argentina,89,moderate
+93,2023-07-03 11:00:00,MEX,Mexico,85,moderate
+94,2023-07-03 11:00:00,MYS,Malaysia,60,moderate
+95,2023-07-03 11:00:00,PAN,Panama,34,good
+96,2023-07-03 11:00:00,,Vietnam,25,good
+97,2023-07-03 11:00:00,ALB,Albania,28,good
+98,2023-07-03 11:00:00,USA,United States,57,moderate
+99,2023-07-03 11:00:00,MNG,Mongolia,29,good
+100,2023-07-03 12:00:00,CHL,Chile,3,good
+101,2023-07-03 12:00:00,,Taiwan,32,good
+102,2023-07-03 12:00:00,MAC,Macao,59,moderate
+103,2023-07-03 12:00:00,HKG,Hong Kong,45,good
+104,2023-07-03 12:00:00,SGP,Singapore,25,good
+105,2023-07-03 12:00:00,COL,Colombia,63,moderate
+106,2023-07-03 12:00:00,PER,Peru,8,good
+107,2023-07-03 12:00:00,AUS,Australia,5,good
+108,2023-07-03 12:00:00,JPN,Japan,73,moderate
+109,2023-07-03 13:00:00,DNK,Denmark,30,good
+110,2023-07-03 13:00:00,ARG,Argentina,76,moderate
+111,2023-07-03 13:00:00,CHL,Chile,10,good
+112,2023-07-03 13:00:00,,South Korea,61,moderate
+113,2023-07-03 14:00:00,NCL,New Caledonia,24,good
+114,2023-07-03 14:00:00,AUS,Australia,2,good
+115,2023-07-03 14:00:00,BRA,Brazil,30,good
+116,2023-07-03 15:00:00,NZL,New Zealand,38,good
+117,2023-07-03 16:00:00,PRT,Portugal,26,good
+118,2023-07-03 16:00:00,HRV,Croatia,28,good
+119,2023-07-03 17:00:00,,Czech Republic,41,good
+120,2023-07-03 17:00:00,AUT,Austria,38,good
+121,2023-07-03 17:00:00,FRA,France,28,good
+122,2023-07-03 17:00:00,NOR,Norway,9,good
+123,2023-07-03 17:00:00,ESP,Spain,22,good
+124,2023-07-03 17:00:00,BGR,Bulgaria,21,good
+125,2023-07-03 17:00:00,ISL,Iceland,7,good
+126,2023-07-03 17:00:00,LUX,Luxembourg,38,good
+127,2023-07-03 18:00:00,ISR,Israel,67,moderate
+128,2023-07-03 18:00:00,NLD,Netherlands,46,good
+129,2023-07-03 18:00:00,SRB,Serbia,43,good
+130,2023-07-03 18:00:00,SVK,Slovakia,50,good
+131,2023-07-03 18:00:00,FRA,France,26,good
+132,2023-07-03 18:00:00,,Kosovo,33,good
+133,2023-07-03 18:00:00,BIH,Bosnia and Herzegovina,36,good
+134,2023-07-03 18:00:00,SWE,Sweden,5,good
+135,2023-07-03 18:00:00,SVN,Slovenia,34,good
+136,2023-07-03 18:00:00,BGR,Bulgaria,20,good
+137,2023-07-03 18:00:00,CHE,Switzerland,39,good
+138,2023-07-03 18:00:00,LTU,Lithuania,35,good
+139,2023-07-03 18:00:00,DZA,Algeria,30,good
+140,2023-07-03 19:00:00,POL,Poland,47,good
+141,2023-07-03 19:00:00,ROU,Romania,18,good
+142,2023-07-03 19:00:00,,Kosovo,33,good
+143,2023-07-03 19:00:00,GIB,Gibraltar,33,good
+144,2023-07-03 19:00:00,DEU,Germany,39,good
+145,2023-07-03 19:00:00,KEN,Kenya,99,moderate
+146,2023-07-03 19:00:00,BIH,Bosnia and Herzegovina,46,good
+147,2023-07-03 19:00:00,NOR,Norway,8,good
+148,2023-07-03 19:00:00,KWT,Kuwait,117,unhealty for sensitive groups
+149,2023-07-03 19:00:00,MLT,Malta,38,good
+150,2023-07-03 19:00:00,FIN,Finland,29,good
+151,2023-07-03 19:00:00,LTU,Lithuania,31,good
+152,2023-07-03 20:00:00,JOR,Jordan,20,good
+153,2023-07-03 20:00:00,CYP,Cyprus,64,moderate
+154,2023-07-03 20:00:00,ROU,Romania,18,good
+155,2023-07-03 20:00:00,CAN,Canada,25,good
+156,2023-07-03 20:00:00,TUR,Turkey,50,good
+157,2023-07-03 20:00:00,EST,Estonia,31,good
+158,2023-07-03 20:00:00,GEO,Georgia,50,good
+159,2023-07-03 20:00:00,GRC,Greece,61,moderate
+160,2023-07-03 21:00:00,MMR,Myanmar,9,good
+161,2023-07-03 21:00:00,IND,India,83,moderate
+162,2023-07-03 22:00:00,PAK,Pakistan,102,unhealty for sensitive groups
+163,2023-07-03 22:00:00,MEX,Mexico,34,good
+164,2023-07-03 22:00:00,LKA,Sri Lanka,55,moderate
+165,2023-07-03 22:00:00,ECU,Ecuador,50,good
+166,2023-07-03 22:00:00,GTM,Guatemala,25,good
+167,2023-07-03 22:00:00,IDN,Indonesia,90,moderate
+168,2023-07-03 22:00:00,USA,United States,58,moderate
+169,2023-07-03 22:00:00,LBN,Lebanon,23,good
+170,2023-07-03 23:00:00,PAN,Panama,24,good
+171,2023-07-03 23:00:00,THA,Thailand,30,good
+172,2023-07-03 23:00:00,KAZ,Kazakhstan,57,moderate
+173,2023-07-03 23:00:00,ALB,Albania,35,good
+174,2023-07-03 23:00:00,ARG,Argentina,95,moderate
+175,2023-07-03 23:00:00,KGZ,Kyrgyzstan,80,moderate
+176,2023-07-03 23:00:00,BGD,Bangladesh,144,unhealty for sensitive groups
+177,2023-07-03 23:00:00,SLV,El Salvador,87,moderate
+178,2023-07-04 00:00:00,MYS,Malaysia,60,moderate
+179,2023-07-04 00:00:00,CHL,Chile,25,good
+180,2023-07-04 00:00:00,PER,Peru,7,good
+181,2023-07-04 00:00:00,COL,Colombia,77,moderate
+182,2023-07-04 00:00:00,HKG,Hong Kong,25,good
+183,2023-07-04 00:00:00,,Laos,5,good
+184,2023-07-04 00:00:00,MNG,Mongolia,24,good
+185,2023-07-04 00:00:00,,Vietnam,8,good
+186,2023-07-04 00:00:00,MAC,Macao,34,good
+187,2023-07-04 01:00:00,HKG,Hong Kong,18,good
+188,2023-07-04 01:00:00,,Taiwan,10,good
+189,2023-07-04 01:00:00,SGP,Singapore,30,good
+190,2023-07-04 02:00:00,,South Korea,57,moderate
+191,2023-07-04 02:00:00,JPN,Japan,55,moderate
+192,2023-07-04 02:00:00,BRA,Brazil,30,good
+193,2023-07-04 03:00:00,NCL,New Caledonia,26,good
+194,2023-07-04 03:00:00,PRT,Portugal,17,good
+195,2023-07-04 04:00:00,HRV,Croatia,5,good
+196,2023-07-04 04:00:00,NZL,New Zealand,59,moderate
+197,2023-07-04 04:00:00,FRA,France,13,good
+198,2023-07-04 05:00:00,ISL,Iceland,5,good
+199,2023-07-04 05:00:00,LUX,Luxembourg,55,moderate
+200,2023-07-04 05:00:00,DZA,Algeria,21,good
+201,2023-07-04 05:00:00,BGR,Bulgaria,33,good
+202,2023-07-04 05:00:00,ESP,Spain,13,good
+203,2023-07-04 05:00:00,,Kosovo,15,good
+204,2023-07-04 06:00:00,NOR,Norway,10,good
+205,2023-07-04 06:00:00,,Czech Republic,38,good
+206,2023-07-04 06:00:00,SWE,Sweden,4,good
+207,2023-07-04 06:00:00,CHE,Switzerland,20,good
+208,2023-07-04 06:00:00,AUT,Austria,50,good
+209,2023-07-04 06:00:00,BIH,Bosnia and Herzegovina,29,good
+210,2023-07-04 06:00:00,ISR,Israel,72,moderate
+211,2023-07-04 06:00:00,NLD,Netherlands,38,good
+212,2023-07-04 06:00:00,DEU,Germany,17,good
+213,2023-07-04 06:00:00,SVK,Slovakia,42,good
+214,2023-07-04 06:00:00,POL,Poland,60,moderate
+215,2023-07-04 06:00:00,KEN,Kenya,54,moderate
+216,2023-07-04 06:00:00,SVN,Slovenia,8,good
+217,2023-07-04 06:00:00,LTU,Lithuania,32,good
+218,2023-07-04 06:00:00,MLT,Malta,53,moderate
+219,2023-07-04 06:00:00,SRB,Serbia,43,good
+220,2023-07-04 06:00:00,AND,Andorra,9,good
+221,2023-07-04 07:00:00,KWT,Kuwait,86,moderate
+222,2023-07-04 07:00:00,FIN,Finland,25,good
+223,2023-07-04 07:00:00,,Macedonia,-,unavailable
+224,2023-07-04 07:00:00,EST,Estonia,28,good
+225,2023-07-04 07:00:00,GIB,Gibraltar,53,moderate
+226,2023-07-04 07:00:00,GRC,Greece,74,moderate
+227,2023-07-04 07:00:00,ROU,Romania,21,good
+228,2023-07-04 08:00:00,JOR,Jordan,19,good
+229,2023-07-04 08:00:00,GEO,Georgia,50,good
+230,2023-07-04 08:00:00,CAN,Canada,33,good
+231,2023-07-04 08:00:00,TUR,Turkey,52,moderate
+232,2023-07-04 08:00:00,CYP,Cyprus,73,moderate
+233,2023-07-04 09:00:00,LKA,Sri Lanka,59,moderate
+234,2023-07-04 09:00:00,CAN,Canada,38,good
+235,2023-07-04 09:00:00,PAK,Pakistan,112,unhealty for sensitive groups
+236,2023-07-04 09:00:00,GTM,Guatemala,26,good
+237,2023-07-04 10:00:00,IND,India,83,moderate
+238,2023-07-04 10:00:00,SLV,El Salvador,80,moderate
+239,2023-07-04 10:00:00,ECU,Ecuador,77,moderate
+240,2023-07-04 10:00:00,MEX,Mexico,55,moderate
+241,2023-07-04 10:00:00,BGD,Bangladesh,76,moderate
+242,2023-07-04 10:00:00,ALB,Albania,44,good
+243,2023-07-04 10:00:00,KGZ,Kyrgyzstan,61,moderate
+244,2023-07-04 10:00:00,MMR,Myanmar,9,good
+245,2023-07-04 10:00:00,USA,United States,37,good
+246,2023-07-04 10:00:00,PAN,Panama,10,good
+247,2023-07-04 10:00:00,KAZ,Kazakhstan,59,moderate
+248,2023-07-04 10:00:00,NZL,New Zealand,55,moderate
+249,2023-07-04 10:00:00,LBN,Lebanon,30,good
+250,2023-07-04 11:00:00,SLV,El Salvador,78,moderate
+251,2023-07-04 11:00:00,MEX,Mexico,91,moderate
+252,2023-07-04 11:00:00,IDN,Indonesia,92,moderate
+253,2023-07-04 11:00:00,LBN,Lebanon,32,good
+254,2023-07-04 11:00:00,COL,Colombia,52,moderate
+255,2023-07-04 11:00:00,USA,United States,35,good
+256,2023-07-04 11:00:00,ECU,Ecuador,69,moderate
+257,2023-07-04 11:00:00,GTM,Guatemala,32,good
+258,2023-07-04 11:00:00,PAN,Panama,46,good
+259,2023-07-04 11:00:00,,Laos,17,good
+260,2023-07-04 11:00:00,PER,Peru,7,good
+261,2023-07-04 12:00:00,MNG,Mongolia,21,good
+262,2023-07-04 12:00:00,ALB,Albania,48,good
+263,2023-07-04 12:00:00,,Vietnam,27,good
+264,2023-07-04 12:00:00,MAC,Macao,42,good
+265,2023-07-04 12:00:00,COL,Colombia,50,good
+266,2023-07-04 12:00:00,THA,Thailand,55,moderate
+267,2023-07-04 12:00:00,HKG,Hong Kong,31,good
+268,2023-07-04 12:00:00,MYS,Malaysia,57,moderate
+269,2023-07-04 12:00:00,ARG,Argentina,68,moderate
+270,2023-07-04 12:00:00,PER,Peru,5,good
+271,2023-07-04 12:00:00,CHL,Chile,72,moderate
+272,2023-07-04 12:00:00,CAN,Canada,48,good
+273,2023-07-04 12:00:00,AUS,Australia,6,good
+274,2023-07-04 13:00:00,,Taiwan,35,good
+275,2023-07-04 13:00:00,SGP,Singapore,13,good
+276,2023-07-04 13:00:00,CAN,Canada,61,moderate
+277,2023-07-04 13:00:00,,South Korea,50,good
+278,2023-07-04 13:00:00,JPN,Japan,41,good
+279,2023-07-04 13:00:00,BRA,Brazil,25,good
+280,2023-07-04 14:00:00,MEX,Mexico,124,unhealty for sensitive groups
+281,2023-07-04 14:00:00,BRA,Brazil,27,good
+282,2023-07-04 14:00:00,ECU,Ecuador,89,moderate
+283,2023-07-04 14:00:00,USA,United States,38,good
+284,2023-07-04 14:00:00,SLV,El Salvador,78,moderate
+285,2023-07-04 14:00:00,GTM,Guatemala,21,good
+286,2023-07-04 14:00:00,LBN,Lebanon,36,good
+287,2023-07-04 15:00:00,GTM,Guatemala,18,good
+288,2023-07-04 15:00:00,COL,Colombia,59,moderate
+289,2023-07-04 15:00:00,LBN,Lebanon,35,good
+290,2023-07-04 15:00:00,CAN,Canada,70,moderate
+291,2023-07-04 15:00:00,SLV,El Salvador,74,moderate
+292,2023-07-04 15:00:00,PAN,Panama,19,good
+293,2023-07-04 15:00:00,ALB,Albania,42,good
+294,2023-07-04 15:00:00,PRT,Portugal,30,good
+295,2023-07-04 15:00:00,NCL,New Caledonia,24,good
+296,2023-07-04 15:00:00,MEX,Mexico,119,unhealty for sensitive groups
+297,2023-07-04 15:00:00,USA,United States,34,good
+298,2023-07-04 15:00:00,ECU,Ecuador,67,moderate
+299,2023-07-04 15:00:00,PER,Peru,5,good
+300,2023-07-04 16:00:00,ARG,Argentina,85,moderate
+301,2023-07-04 16:00:00,LUX,Luxembourg,57,moderate
+302,2023-07-04 16:00:00,PER,Peru,5,good
+303,2023-07-04 16:00:00,DZA,Algeria,34,good
+304,2023-07-04 16:00:00,USA,United States,32,good
+305,2023-07-04 16:00:00,COL,Colombia,90,moderate
+306,2023-07-04 16:00:00,ISL,Iceland,10,good
+307,2023-07-04 16:00:00,ECU,Ecuador,75,moderate
+308,2023-07-04 16:00:00,PRT,Portugal,26,good
+309,2023-07-04 16:00:00,LBN,Lebanon,35,good
+310,2023-07-04 16:00:00,HRV,Croatia,49,good
+311,2023-07-04 16:00:00,DNK,Denmark,31,good
+312,2023-07-04 16:00:00,BGR,Bulgaria,19,good
+313,2023-07-04 16:00:00,GTM,Guatemala,27,good
+314,2023-07-04 16:00:00,ESP,Spain,20,good
+315,2023-07-04 16:00:00,SLV,El Salvador,70,moderate
+316,2023-07-04 16:00:00,SWE,Sweden,7,good
+317,2023-07-04 16:00:00,ALB,Albania,40,good
+318,2023-07-04 16:00:00,CHL,Chile,65,moderate
+319,2023-07-04 17:00:00,BRA,Brazil,50,good
+320,2023-07-04 17:00:00,ZAF,South Africa,90,moderate
+321,2023-07-04 17:00:00,AUT,Austria,13,good
+322,2023-07-04 17:00:00,LBN,Lebanon,36,good
+323,2023-07-04 17:00:00,ESP,Spain,22,good
+324,2023-07-04 17:00:00,GTM,Guatemala,21,good
+325,2023-07-04 17:00:00,,Czech Republic,59,moderate
+326,2023-07-04 17:00:00,ECU,Ecuador,42,good
+327,2023-07-04 17:00:00,DNK,Denmark,31,good
+328,2023-07-04 17:00:00,SLV,El Salvador,72,moderate
+329,2023-07-04 17:00:00,KEN,Kenya,88,moderate
+330,2023-07-04 17:00:00,MEX,Mexico,82,moderate
+331,2023-07-04 17:00:00,ISL,Iceland,8,good
+332,2023-07-04 17:00:00,PER,Peru,5,good
+333,2023-07-04 17:00:00,FRA,France,26,good
+334,2023-07-04 17:00:00,USA,United States,34,good
+335,2023-07-04 17:00:00,PAN,Panama,33,good
+336,2023-07-04 17:00:00,HRV,Croatia,51,moderate
+337,2023-07-04 17:00:00,COL,Colombia,85,moderate
+338,2023-07-04 17:00:00,LUX,Luxembourg,46,good
+339,2023-07-04 17:00:00,CHL,Chile,89,moderate
+340,2023-07-04 17:00:00,SRB,Serbia,55,moderate
+341,2023-07-04 18:00:00,POL,Poland,46,good
+342,2023-07-04 18:00:00,PER,Peru,5,good
+343,2023-07-04 18:00:00,USA,United States,32,good
+344,2023-07-04 18:00:00,PAN,Panama,35,good
+345,2023-07-04 18:00:00,LTU,Lithuania,32,good
+346,2023-07-04 18:00:00,LBN,Lebanon,35,good
+347,2023-07-04 18:00:00,MEX,Mexico,89,moderate
+348,2023-07-04 18:00:00,NOR,Norway,28,good
+349,2023-07-04 18:00:00,SLV,El Salvador,70,moderate
+350,2023-07-04 18:00:00,SVN,Slovenia,21,good
+351,2023-07-04 18:00:00,SRB,Serbia,51,moderate
+352,2023-07-04 18:00:00,SVK,Slovakia,46,good
+353,2023-07-04 18:00:00,NLD,Netherlands,31,good
+354,2023-07-04 18:00:00,MLT,Malta,46,good
+355,2023-07-04 18:00:00,KWT,Kuwait,142,unhealty for sensitive groups
+356,2023-07-04 18:00:00,BIH,Bosnia and Herzegovina,73,moderate
+357,2023-07-04 18:00:00,ALB,Albania,45,good
+358,2023-07-04 18:00:00,ECU,Ecuador,81,moderate
+359,2023-07-04 18:00:00,DZA,Algeria,25,good
+360,2023-07-04 18:00:00,GIB,Gibraltar,61,moderate
+361,2023-07-04 18:00:00,DEU,Germany,31,good
+362,2023-07-04 18:00:00,FRA,France,20,good
+363,2023-07-04 18:00:00,ARG,Argentina,65,moderate
+364,2023-07-04 18:00:00,COL,Colombia,88,moderate
+365,2023-07-04 18:00:00,ISR,Israel,75,moderate
+366,2023-07-04 18:00:00,BRA,Brazil,42,good
+367,2023-07-04 18:00:00,,Czech Republic,40,good
+368,2023-07-04 18:00:00,BGR,Bulgaria,16,good
+369,2023-07-04 18:00:00,AND,Andorra,30,good
+370,2023-07-04 19:00:00,MLT,Malta,46,good
+371,2023-07-04 19:00:00,SVK,Slovakia,42,good
+372,2023-07-04 19:00:00,BRA,Brazil,68,moderate
+373,2023-07-04 19:00:00,GRC,Greece,68,moderate
+374,2023-07-04 19:00:00,GEO,Georgia,53,moderate
+375,2023-07-04 19:00:00,PER,Peru,5,good
+376,2023-07-04 19:00:00,DEU,Germany,32,good
+377,2023-07-04 19:00:00,JOR,Jordan,23,good
+378,2023-07-04 19:00:00,CHE,Switzerland,34,good
+379,2023-07-04 19:00:00,NOR,Norway,23,good
+380,2023-07-04 19:00:00,CHE,Switzerland,10,good
+381,2023-07-04 19:00:00,KEN,Kenya,115,unhealty for sensitive groups
+382,2023-07-04 19:00:00,TUR,Turkey,39,good
+383,2023-07-04 19:00:00,ROU,Romania,21,good
+384,2023-07-04 19:00:00,EST,Estonia,28,good
+385,2023-07-04 19:00:00,ZAF,South Africa,157,unhealty
+386,2023-07-04 19:00:00,SVN,Slovenia,21,good
+387,2023-07-04 19:00:00,POL,Poland,45,good
+388,2023-07-04 19:00:00,NLD,Netherlands,28,good
+389,2023-07-04 19:00:00,BIH,Bosnia and Herzegovina,66,moderate
+390,2023-07-04 19:00:00,ISR,Israel,75,moderate
+391,2023-07-04 19:00:00,PRT,Portugal,22,good
+392,2023-07-04 19:00:00,CHL,Chile,166,unhealty
+393,2023-07-04 19:00:00,FIN,Finland,26,good
+394,2023-07-04 19:00:00,AND,Andorra,29,good
+395,2023-07-04 19:00:00,CYP,Cyprus,57,moderate
+396,2023-07-04 20:00:00,GRC,Greece,50,good
+397,2023-07-04 20:00:00,PAK,Pakistan,112,unhealty for sensitive groups
+398,2023-07-04 20:00:00,ISL,Iceland,5,good
+399,2023-07-04 20:00:00,JOR,Jordan,20,good
+400,2023-07-04 20:00:00,BRA,Brazil,65,moderate
+401,2023-07-04 20:00:00,LKA,Sri Lanka,63,moderate
+402,2023-07-04 20:00:00,HRV,Croatia,52,moderate
+403,2023-07-04 20:00:00,SWE,Sweden,6,good
+404,2023-07-04 20:00:00,GIB,Gibraltar,57,moderate
+405,2023-07-04 20:00:00,CYP,Cyprus,52,moderate
+406,2023-07-04 20:00:00,ROU,Romania,21,good
+407,2023-07-04 20:00:00,EST,Estonia,29,good
+408,2023-07-04 20:00:00,DNK,Denmark,27,good
+409,2023-07-04 20:00:00,KWT,Kuwait,319,hazardous
+410,2023-07-04 20:00:00,LUX,Luxembourg,25,good
+411,2023-07-04 20:00:00,PRT,Portugal,19,good
+412,2023-07-04 20:00:00,FIN,Finland,27,good
+413,2023-07-04 20:00:00,LTU,Lithuania,34,good
+414,2023-07-04 21:00:00,DEU,Germany,26,good
+415,2023-07-04 21:00:00,ISL,Iceland,5,good
+416,2023-07-04 21:00:00,BGR,Bulgaria,14,good
+417,2023-07-04 21:00:00,ESP,Spain,20,good
+418,2023-07-04 21:00:00,DZA,Algeria,38,good
+419,2023-07-04 21:00:00,BRA,Brazil,53,moderate
+420,2023-07-04 21:00:00,DNK,Denmark,26,good
+421,2023-07-04 21:00:00,IND,India,84,moderate
+422,2023-07-04 21:00:00,PRT,Portugal,20,good
+423,2023-07-04 21:00:00,TUR,Turkey,38,good
+424,2023-07-04 21:00:00,KGZ,Kyrgyzstan,4,good
+425,2023-07-04 21:00:00,BGD,Bangladesh,76,moderate
+426,2023-07-04 21:00:00,,Czech Republic,37,good
+427,2023-07-04 21:00:00,FRA,France,14,good
+428,2023-07-04 21:00:00,HRV,Croatia,61,moderate
+429,2023-07-04 21:00:00,KAZ,Kazakhstan,53,moderate
+430,2023-07-04 21:00:00,GEO,Georgia,53,moderate
+431,2023-07-04 21:00:00,LUX,Luxembourg,17,good
+432,2023-07-04 21:00:00,SRB,Serbia,49,good
+433,2023-07-04 21:00:00,,Macedonia,1,good
+434,2023-07-04 22:00:00,BGR,Bulgaria,22,good
+435,2023-07-04 22:00:00,IND,India,84,moderate
+436,2023-07-04 22:00:00,DEU,Germany,22,good
+437,2023-07-04 22:00:00,MMR,Myanmar,5,good
+438,2023-07-04 22:00:00,DEU,Germany,36,good
+439,2023-07-04 22:00:00,PRT,Portugal,18,good
+440,2023-07-04 22:00:00,POL,Poland,62,moderate
+441,2023-07-04 22:00:00,PAK,Pakistan,107,unhealty for sensitive groups
+442,2023-07-04 22:00:00,ISL,Iceland,4,good
+443,2023-07-04 22:00:00,SRB,Serbia,46,good
+444,2023-07-04 22:00:00,SVN,Slovenia,30,good
+445,2023-07-04 22:00:00,,Czech Republic,40,good
+446,2023-07-04 22:00:00,FRA,France,10,good
+447,2023-07-04 22:00:00,DNK,Denmark,25,good
+448,2023-07-04 22:00:00,NLD,Netherlands,35,good
+449,2023-07-04 22:00:00,SVK,Slovakia,34,good
+450,2023-07-04 22:00:00,MMR,Myanmar,-,unavailable
+451,2023-07-04 22:00:00,BIH,Bosnia and Herzegovina,48,good
+452,2023-07-04 22:00:00,CHE,Switzerland,25,good
+453,2023-07-04 22:00:00,ZAF,South Africa,164,unhealty
+454,2023-07-04 22:00:00,LUX,Luxembourg,17,good
+455,2023-07-04 22:00:00,LKA,Sri Lanka,65,moderate
+456,2023-07-04 22:00:00,MLT,Malta,55,moderate
+457,2023-07-04 22:00:00,ESP,Spain,20,good
+458,2023-07-04 22:00:00,LTU,Lithuania,32,good
+459,2023-07-04 22:00:00,ISR,Israel,76,moderate
+460,2023-07-04 22:00:00,KEN,Kenya,180,unhealty
+461,2023-07-04 22:00:00,SWE,Sweden,4,good
+462,2023-07-04 22:00:00,DZA,Algeria,55,moderate
+463,2023-07-04 22:00:00,AND,Andorra,30,good
+464,2023-07-04 22:00:00,,Laos,42,good
+465,2023-07-04 23:00:00,GRC,Greece,59,moderate
+466,2023-07-04 23:00:00,KGZ,Kyrgyzstan,53,moderate
+467,2023-07-04 23:00:00,JOR,Jordan,40,good
+468,2023-07-04 23:00:00,CYP,Cyprus,59,moderate
+469,2023-07-04 23:00:00,SRB,Serbia,51,moderate
+470,2023-07-04 23:00:00,,Vietnam,8,good
+471,2023-07-04 23:00:00,MAC,Macao,42,good
+472,2023-07-04 23:00:00,GIB,Gibraltar,54,moderate
+473,2023-07-04 23:00:00,AUS,Australia,5,good
+474,2023-07-04 23:00:00,KAZ,Kazakhstan,53,moderate
+475,2023-07-04 23:00:00,AND,Andorra,33,good
+476,2023-07-04 23:00:00,DZA,Algeria,50,good
+477,2023-07-04 23:00:00,LUX,Luxembourg,30,good
+478,2023-07-04 23:00:00,THA,Thailand,25,good
+479,2023-07-04 23:00:00,FRA,France,11,good
+480,2023-07-04 23:00:00,BGD,Bangladesh,76,moderate
+481,2023-07-04 23:00:00,FIN,Finland,32,good
+482,2023-07-04 23:00:00,POL,Poland,69,moderate
+483,2023-07-04 23:00:00,LTU,Lithuania,32,good
+484,2023-07-04 23:00:00,KWT,Kuwait,200,unhealty
+485,2023-07-04 23:00:00,KEN,Kenya,184,unhealty
+486,2023-07-04 23:00:00,MNG,Mongolia,51,moderate
+487,2023-07-04 23:00:00,CHE,Switzerland,24,good
+488,2023-07-04 23:00:00,EST,Estonia,26,good
+489,2023-07-04 23:00:00,HRV,Croatia,73,moderate
+490,2023-07-04 23:00:00,BIH,Bosnia and Herzegovina,25,good
+491,2023-07-04 23:00:00,ISR,Israel,77,moderate
+492,2023-07-04 23:00:00,SVK,Slovakia,30,good
+493,2023-07-04 23:00:00,NLD,Netherlands,17,good
+494,2023-07-04 23:00:00,MLT,Malta,53,moderate
+495,2023-07-04 23:00:00,SVN,Slovenia,30,good
+496,2023-07-04 23:00:00,IDN,Indonesia,118,unhealty for sensitive groups
+497,2023-07-04 23:00:00,ZAF,South Africa,174,unhealty
+498,2023-07-04 23:00:00,NOR,Norway,15,good
+499,2023-07-04 23:00:00,MYS,Malaysia,58,moderate
+500,2023-07-04 23:00:00,ROU,Romania,20,good
+501,2023-07-04 23:00:00,ISL,Iceland,6,good
+502,2023-07-05 00:00:00,KEN,Kenya,184,unhealty
+503,2023-07-05 00:00:00,POL,Poland,77,moderate
+504,2023-07-05 00:00:00,ISR,Israel,77,moderate
+505,2023-07-05 00:00:00,ISL,Iceland,4,good
+506,2023-07-05 00:00:00,ESP,Spain,21,good
+507,2023-07-05 00:00:00,AND,Andorra,34,good
+508,2023-07-05 00:00:00,BGR,Bulgaria,23,good
+509,2023-07-05 00:00:00,TUR,Turkey,37,good
+510,2023-07-05 00:00:00,FIN,Finland,31,good
+511,2023-07-05 00:00:00,DZA,Algeria,59,moderate
+512,2023-07-05 00:00:00,,Laos,34,good
+513,2023-07-05 00:00:00,MNG,Mongolia,46,good
+514,2023-07-05 00:00:00,,Vietnam,10,good
+515,2023-07-05 00:00:00,ROU,Romania,20,good
+516,2023-07-05 00:00:00,EST,Estonia,28,good
+517,2023-07-05 00:00:00,DNK,Denmark,23,good
+518,2023-07-05 00:00:00,,Czech Republic,56,moderate
+519,2023-07-05 00:00:00,GRC,Greece,70,moderate
+520,2023-07-05 00:00:00,GIB,Gibraltar,41,good
+521,2023-07-05 00:00:00,MLT,Malta,50,good
+522,2023-07-05 00:00:00,SVN,Slovenia,30,good
+523,2023-07-05 00:00:00,SRB,Serbia,50,good
+524,2023-07-05 00:00:00,HKG,Hong Kong,20,good
+525,2023-07-05 00:00:00,,Taiwan,13,good
+526,2023-07-05 00:00:00,SGP,Singapore,17,good
+527,2023-07-05 00:00:00,,Macedonia,33,good
+528,2023-07-05 00:00:00,NOR,Norway,12,good
+529,2023-07-05 00:00:00,DEU,Germany,21,good
+530,2023-07-05 00:00:00,GEO,Georgia,50,good
+531,2023-07-05 00:00:00,NCL,New Caledonia,45,good
+532,2023-07-05 00:00:00,LUX,Luxembourg,30,good
+533,2023-07-05 00:00:00,SWE,Sweden,6,good
+534,2023-07-05 00:00:00,JOR,Jordan,38,good
+535,2023-07-05 00:00:00,CYP,Cyprus,55,moderate
+536,2023-07-05 01:00:00,ZAF,South Africa,186,unhealty
+537,2023-07-05 01:00:00,SGP,Singapore,17,good
+538,2023-07-05 01:00:00,DZA,Algeria,87,moderate
+539,2023-07-05 01:00:00,CYP,Cyprus,59,moderate
+540,2023-07-05 01:00:00,SRB,Serbia,41,good
+541,2023-07-05 01:00:00,SVK,Slovakia,17,good
+542,2023-07-05 01:00:00,AUT,Austria,34,good
+543,2023-07-05 01:00:00,AND,Andorra,33,good
+544,2023-07-05 01:00:00,,Taiwan,9,good
+545,2023-07-05 01:00:00,BIH,Bosnia and Herzegovina,16,good
+546,2023-07-05 01:00:00,LKA,Sri Lanka,46,good
+547,2023-07-05 01:00:00,AUS,Australia,4,good
+548,2023-07-05 01:00:00,CHE,Switzerland,22,good
+549,2023-07-05 01:00:00,TUR,Turkey,36,good
+550,2023-07-05 01:00:00,POL,Poland,77,moderate
+551,2023-07-05 01:00:00,,South Korea,23,good
+552,2023-07-05 01:00:00,MLT,Malta,53,moderate
+553,2023-07-05 01:00:00,NOR,Norway,16,good
+554,2023-07-05 01:00:00,EST,Estonia,26,good
+555,2023-07-05 01:00:00,NLD,Netherlands,24,good
+556,2023-07-05 01:00:00,HKG,Hong Kong,26,good
+557,2023-07-05 01:00:00,IND,India,84,moderate
+558,2023-07-05 01:00:00,PAK,Pakistan,76,moderate
+559,2023-07-05 01:00:00,JPN,Japan,30,good
+560,2023-07-05 01:00:00,GIB,Gibraltar,25,good
+561,2023-07-05 01:00:00,LTU,Lithuania,33,good
+562,2023-07-05 01:00:00,JOR,Jordan,27,good
+563,2023-07-05 01:00:00,FRA,France,14,good
+564,2023-07-05 01:00:00,MYS,Malaysia,57,moderate
+565,2023-07-05 01:00:00,MAC,Macao,34,good
+566,2023-07-05 01:00:00,ROU,Romania,20,good
+567,2023-07-05 01:00:00,GEO,Georgia,50,good
+568,2023-07-05 01:00:00,ISR,Israel,75,moderate
+569,2023-07-05 02:00:00,IND,India,84,moderate
+570,2023-07-05 02:00:00,KWT,Kuwait,155,unhealty
+571,2023-07-05 02:00:00,SVN,Slovenia,13,good
+572,2023-07-05 02:00:00,NLD,Netherlands,35,good
+573,2023-07-05 02:00:00,AND,Andorra,33,good
+574,2023-07-05 02:00:00,JPN,Japan,38,good
+575,2023-07-05 02:00:00,LKA,Sri Lanka,38,good
+576,2023-07-05 02:00:00,,South Korea,24,good
+577,2023-07-05 02:00:00,BIH,Bosnia and Herzegovina,14,good
+578,2023-07-05 02:00:00,BGD,Bangladesh,68,moderate
+579,2023-07-05 02:00:00,JOR,Jordan,21,good
+580,2023-07-05 02:00:00,KAZ,Kazakhstan,59,moderate
+581,2023-07-05 02:00:00,MLT,Malta,50,good
+582,2023-07-05 02:00:00,NCL,New Caledonia,44,good
+583,2023-07-05 02:00:00,EST,Estonia,27,good
+584,2023-07-05 02:00:00,PAK,Pakistan,76,moderate
+585,2023-07-05 02:00:00,CYP,Cyprus,63,moderate
+586,2023-07-05 02:00:00,GRC,Greece,74,moderate
+587,2023-07-05 02:00:00,GIB,Gibraltar,15,good
+588,2023-07-05 02:00:00,NOR,Norway,13,good
+589,2023-07-05 02:00:00,KGZ,Kyrgyzstan,3,good
+590,2023-07-05 02:00:00,FIN,Finland,31,good
+591,2023-07-05 03:00:00,CHE,Switzerland,9,good
+592,2023-07-05 03:00:00,JOR,Jordan,21,good
+593,2023-07-05 03:00:00,BGD,Bangladesh,61,moderate
+594,2023-07-05 03:00:00,CYP,Cyprus,61,moderate
+595,2023-07-05 03:00:00,TUR,Turkey,35,good
+596,2023-07-05 03:00:00,GEO,Georgia,47,good
+597,2023-07-05 03:00:00,ROU,Romania,19,good
+598,2023-07-05 03:00:00,THA,Thailand,21,good
+599,2023-07-05 03:00:00,PAK,Pakistan,74,moderate
+600,2023-07-05 03:00:00,LKA,Sri Lanka,34,good
+601,2023-07-05 03:00:00,,Vietnam,19,good
+602,2023-07-05 03:00:00,EST,Estonia,25,good
+603,2023-07-05 03:00:00,LTU,Lithuania,32,good
+604,2023-07-05 03:00:00,FIN,Finland,28,good
+605,2023-07-05 03:00:00,IDN,Indonesia,181,unhealty
+606,2023-07-05 03:00:00,KAZ,Kazakhstan,55,moderate
+607,2023-07-05 03:00:00,NZL,New Zealand,34,good
+608,2023-07-05 03:00:00,KGZ,Kyrgyzstan,3,good
+609,2023-07-05 03:00:00,,Laos,13,good
+610,2023-07-05 03:00:00,MNG,Mongolia,18,good
+611,2023-07-05 04:00:00,IDN,Indonesia,171,unhealty
+612,2023-07-05 04:00:00,,Taiwan,17,good
+613,2023-07-05 04:00:00,NZL,New Zealand,30,good
+614,2023-07-05 04:00:00,KAZ,Kazakhstan,42,good
+615,2023-07-05 04:00:00,AUS,Australia,4,good
+616,2023-07-05 04:00:00,MAC,Macao,34,good
+617,2023-07-05 04:00:00,NCL,New Caledonia,23,good
+618,2023-07-05 04:00:00,,Laos,13,good
+619,2023-07-05 04:00:00,MYS,Malaysia,55,moderate
+620,2023-07-05 04:00:00,HKG,Hong Kong,25,good
+621,2023-07-05 04:00:00,,Vietnam,18,good
+622,2023-07-05 04:00:00,SGP,Singapore,17,good
+623,2023-07-05 04:00:00,BGD,Bangladesh,87,moderate
+624,2023-07-05 04:00:00,MNG,Mongolia,17,good
+625,2023-07-05 04:00:00,KGZ,Kyrgyzstan,6,good
+626,2023-07-05 04:00:00,THA,Thailand,17,good
+627,2023-07-05 04:00:00,LKA,Sri Lanka,53,moderate
+628,2023-07-05 04:00:00,PAK,Pakistan,70,moderate
+629,2023-07-05 05:00:00,AUS,Australia,4,good
+630,2023-07-05 05:00:00,JPN,Japan,38,good
+631,2023-07-05 05:00:00,,Taiwan,13,good
+632,2023-07-05 05:00:00,LKA,Sri Lanka,42,good
+633,2023-07-05 05:00:00,,South Korea,38,good
+634,2023-07-05 05:00:00,THA,Thailand,13,good
+635,2023-07-05 05:00:00,MNG,Mongolia,18,good
+636,2023-07-05 05:00:00,HKG,Hong Kong,26,good
+637,2023-07-05 05:00:00,MAC,Macao,34,good
+638,2023-07-05 05:00:00,KAZ,Kazakhstan,38,good
+639,2023-07-05 05:00:00,IDN,Indonesia,168,unhealty
+640,2023-07-05 05:00:00,BGD,Bangladesh,99,moderate
+641,2023-07-05 05:00:00,MYS,Malaysia,54,moderate
+642,2023-07-05 05:00:00,SGP,Singapore,21,good
+643,2023-07-05 05:00:00,KGZ,Kyrgyzstan,8,good
+644,2023-07-05 05:00:00,PAK,Pakistan,59,moderate
+645,2023-07-05 05:00:00,,Laos,13,good
+646,2023-07-05 05:00:00,,Vietnam,16,good
+647,2023-07-05 06:00:00,KGZ,Kyrgyzstan,7,good
+648,2023-07-05 06:00:00,,South Korea,46,good
+649,2023-07-05 06:00:00,KAZ,Kazakhstan,38,good
+650,2023-07-05 06:00:00,,Laos,25,good
+651,2023-07-05 06:00:00,JPN,Japan,30,good
+652,2023-07-05 06:00:00,THA,Thailand,18,good
+653,2023-07-05 06:00:00,SGP,Singapore,21,good
+654,2023-07-05 06:00:00,,Taiwan,14,good
+655,2023-07-05 06:00:00,BGD,Bangladesh,53,moderate
+656,2023-07-05 06:00:00,HKG,Hong Kong,13,good
+657,2023-07-05 06:00:00,AUS,Australia,5,good
+658,2023-07-05 06:00:00,MNG,Mongolia,18,good
+659,2023-07-05 06:00:00,IDN,Indonesia,173,unhealty
+660,2023-07-05 07:00:00,SGP,Singapore,30,good
+661,2023-07-05 07:00:00,NZL,New Zealand,34,good
+662,2023-07-05 07:00:00,,Laos,17,good
+663,2023-07-05 07:00:00,HKG,Hong Kong,30,good
+664,2023-07-05 07:00:00,IDN,Indonesia,165,unhealty
+665,2023-07-05 07:00:00,,South Korea,43,good
+666,2023-07-05 07:00:00,MNG,Mongolia,18,good
+667,2023-07-05 07:00:00,,Vietnam,26,good
+668,2023-07-05 07:00:00,JPN,Japan,18,good
+669,2023-07-05 07:00:00,THA,Thailand,17,good
+670,2023-07-05 07:00:00,MYS,Malaysia,53,moderate
+671,2023-07-05 07:00:00,MAC,Macao,25,good
+672,2023-07-05 07:00:00,AUS,Australia,5,good
+673,2023-07-05 07:00:00,,Taiwan,17,good
+674,2023-07-05 08:00:00,SGP,Singapore,17,good
+675,2023-07-05 08:00:00,JPN,Japan,30,good
+676,2023-07-05 08:00:00,NCL,New Caledonia,21,good
+677,2023-07-05 08:00:00,AUS,Australia,4,good
+678,2023-07-05 08:00:00,,South Korea,41,good
+679,2023-07-05 08:00:00,HKG,Hong Kong,28,good
+680,2023-07-05 09:00:00,JPN,Japan,27,good
+681,2023-07-05 09:00:00,,South Korea,41,good
+682,2023-07-05 10:00:00,NCL,New Caledonia,22,good
+683,2023-07-05 11:00:00,NZL,New Zealand,38,good
+684,2023-07-05 11:00:00,NCL,New Caledonia,22,good
+685,,KHM,Cambodia,-,unavailable
+686,,PHL,Philippines,-,unavailable
