@@ -26,7 +26,7 @@ Se utiliza el endpoint:
 https://api.waqi.info/feed/%7Blocation%7D/?token=%7BAPI_TOKEN%7D
 
 ## 🗂️ Estructura del proyecto
-
+<pre>
 Air-Quality-Index-by-date-and-Country/
 │
 ├── app.py # Script principal (consulta, procesamiento y visualización)
@@ -35,7 +35,7 @@ Air-Quality-Index-by-date-and-Country/
 ├── README.md # Documentación del proyecto
 ├── requirements.txt # Dependencias del proyecto
 └── .venv/ # Entorno virtual
-
+</pre>
 
 ---
 
