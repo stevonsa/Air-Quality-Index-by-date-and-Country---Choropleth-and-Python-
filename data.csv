@@ -65,7 +65,7 @@
 63,2023-07-03 06:00:00,POL,Poland,50,good
 64,2023-07-03 06:00:00,MLT,Malta,61,moderate
 65,2023-07-03 06:00:00,ISR,Israel,64,moderate
-66,2023-07-03 07:00:00,TUR,Turkey,30,good
+66,2023-07-03 07:00:00,,Turkey,30,good
 67,2023-07-03 07:00:00,JOR,Jordan,20,good
 68,2023-07-03 07:00:00,CYP,Cyprus,63,moderate
 69,2023-07-03 07:00:00,FIN,Finland,27,good
@@ -155,7 +155,7 @@
 153,2023-07-03 20:00:00,CYP,Cyprus,64,moderate
 154,2023-07-03 20:00:00,ROU,Romania,18,good
 155,2023-07-03 20:00:00,CAN,Canada,25,good
-156,2023-07-03 20:00:00,TUR,Turkey,50,good
+156,2023-07-03 20:00:00,,Turkey,50,good
 157,2023-07-03 20:00:00,EST,Estonia,31,good
 158,2023-07-03 20:00:00,GEO,Georgia,50,good
 159,2023-07-03 20:00:00,GRC,Greece,61,moderate
@@ -230,7 +230,7 @@
 228,2023-07-04 08:00:00,JOR,Jordan,19,good
 229,2023-07-04 08:00:00,GEO,Georgia,50,good
 230,2023-07-04 08:00:00,CAN,Canada,33,good
-231,2023-07-04 08:00:00,TUR,Turkey,52,moderate
+231,2023-07-04 08:00:00,,Turkey,52,moderate
 232,2023-07-04 08:00:00,CYP,Cyprus,73,moderate
 233,2023-07-04 09:00:00,LKA,Sri Lanka,59,moderate
 234,2023-07-04 09:00:00,CAN,Canada,38,good
@@ -381,7 +381,7 @@
 379,2023-07-04 19:00:00,NOR,Norway,23,good
 380,2023-07-04 19:00:00,CHE,Switzerland,10,good
 381,2023-07-04 19:00:00,KEN,Kenya,115,unhealty for sensitive groups
-382,2023-07-04 19:00:00,TUR,Turkey,39,good
+382,2023-07-04 19:00:00,,Turkey,39,good
 383,2023-07-04 19:00:00,ROU,Romania,21,good
 384,2023-07-04 19:00:00,EST,Estonia,28,good
 385,2023-07-04 19:00:00,ZAF,South Africa,157,unhealty
@@ -422,7 +422,7 @@
 420,2023-07-04 21:00:00,DNK,Denmark,26,good
 421,2023-07-04 21:00:00,IND,India,84,moderate
 422,2023-07-04 21:00:00,PRT,Portugal,20,good
-423,2023-07-04 21:00:00,TUR,Turkey,38,good
+423,2023-07-04 21:00:00,,Turkey,38,good
 424,2023-07-04 21:00:00,KGZ,Kyrgyzstan,4,good
 425,2023-07-04 21:00:00,BGD,Bangladesh,76,moderate
 426,2023-07-04 21:00:00,,Czech Republic,37,good
@@ -508,7 +508,7 @@
 506,2023-07-05 00:00:00,ESP,Spain,21,good
 507,2023-07-05 00:00:00,AND,Andorra,34,good
 508,2023-07-05 00:00:00,BGR,Bulgaria,23,good
-509,2023-07-05 00:00:00,TUR,Turkey,37,good
+509,2023-07-05 00:00:00,,Turkey,37,good
 510,2023-07-05 00:00:00,FIN,Finland,31,good
 511,2023-07-05 00:00:00,DZA,Algeria,59,moderate
 512,2023-07-05 00:00:00,,Laos,34,good
@@ -548,7 +548,7 @@
 546,2023-07-05 01:00:00,LKA,Sri Lanka,46,good
 547,2023-07-05 01:00:00,AUS,Australia,4,good
 548,2023-07-05 01:00:00,CHE,Switzerland,22,good
-549,2023-07-05 01:00:00,TUR,Turkey,36,good
+549,2023-07-05 01:00:00,,Turkey,36,good
 550,2023-07-05 01:00:00,POL,Poland,77,moderate
 551,2023-07-05 01:00:00,,South Korea,23,good
 552,2023-07-05 01:00:00,MLT,Malta,53,moderate
@@ -594,7 +594,7 @@
 592,2023-07-05 03:00:00,JOR,Jordan,21,good
 593,2023-07-05 03:00:00,BGD,Bangladesh,61,moderate
 594,2023-07-05 03:00:00,CYP,Cyprus,61,moderate
-595,2023-07-05 03:00:00,TUR,Turkey,35,good
+595,2023-07-05 03:00:00,,Turkey,35,good
 596,2023-07-05 03:00:00,GEO,Georgia,47,good
 597,2023-07-05 03:00:00,ROU,Romania,19,good
 598,2023-07-05 03:00:00,THA,Thailand,21,good
